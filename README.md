@@ -1,5 +1,5 @@
-Качать в таге reliz
+Качать в таге [Reliz](https://github.com/9564519/ping_hi/releases/tag/v1)
 
 В коде (вот прям тут) ничего качать не надо.
 
-Обновление происзвожу именно в reliz
+Обновление происзвожу именно в [Reliz](https://github.com/9564519/ping_hi/releases/tag/v1)
